@@ -1,6 +1,6 @@
 # 🚗 Ola Ride Cancellation & Booking Analysis
 
-A data analytics project that analyzes **100,000+ Ola ride booking records** using **MySQL** and **Power BI** to identify ride cancellation patterns, customer behavior, revenue trends, and operational insights.
+SQL + Power BI analytics project uncovering ride cancellations, revenue loss, peak demand, and customer behavior using 100k+ bookings.
 
 ---
 
